@@ -1,0 +1,9 @@
+# Tds w4- q3
+_Slug: _
+
+---
+**Post ID:** 592822  
+**URL:** https://discourse.onlinedegree.iitm.ac.in/t/tds-w4-q3/166651/1  
+
+By going into inspect, copying the json, pasting into the portal and correcting the errors accordingly with chat gpt. Somehow got it done but very tiresome for just 1 mark.
+

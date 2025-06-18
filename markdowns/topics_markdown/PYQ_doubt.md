@@ -1,0 +1,21 @@
+# PYQ doubt
+_Slug: _
+
+---
+**Post ID:** 617911  
+**URL:** https://discourse.onlinedegree.iitm.ac.in/t/pyq-doubt/172373/1  
+
+[![Image description failed](https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/1/1/1147fa7bca00db3d2085d116f674364128961293_2_690x410.jpeg)image1141×678 102 KB](https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/1/1/1147fa7bca00db3d2085d116f674364128961293.jpeg)
+
+
+[@carlton](/u/carlton) sir plz review it
+
+
+i think the correct answer should be A
+
+---
+**Post ID:** 617921  
+**URL:** https://discourse.onlinedegree.iitm.ac.in/t/pyq-doubt/172373/2  
+
+yes saturday is 5 when using weekday ()
+

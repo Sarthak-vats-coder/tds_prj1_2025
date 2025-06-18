@@ -1,0 +1,15 @@
+# Live session recorded or not
+_Slug: _
+
+---
+**Post ID:** 604739  
+**URL:** https://discourse.onlinedegree.iitm.ac.in/t/live-session-recorded-or-not/169456/1  
+
+Please sir was the Thursday session recorded? If yes, it is not on the Youtube channel. Please provide the lecture in the Youtube, I missed that lecture. please reply me sir .
+
+---
+**Post ID:** 605774  
+**URL:** https://discourse.onlinedegree.iitm.ac.in/t/live-session-recorded-or-not/169456/2  
+
+
+
