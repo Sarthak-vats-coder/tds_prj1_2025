@@ -5,3 +5,4 @@ test.py
 image_description_cache.json
 log.txt
 embedding_output
+.vercel
